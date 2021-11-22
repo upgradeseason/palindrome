@@ -1,0 +1,23 @@
+{
+  "name": "upgradeseason-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upgradeseason/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "Upgrade Season",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upgradeseason/palindrome/issues"
+  },
+  "homepage": "https://github.com/upgradeseason/palindrome#readme"
+}

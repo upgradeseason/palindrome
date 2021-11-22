@@ -1,3 +1,6 @@
+//export the (phrase) object we define using the special node object module
+module.exports = Phrase;
+
 // Reverses a string
 function reverse(string) {
 //  return string.split("").reverse().join(""); // Doesn't handle emojis
